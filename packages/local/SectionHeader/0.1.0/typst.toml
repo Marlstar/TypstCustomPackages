@@ -1,0 +1,4 @@
+[package]
+name = "SectionHeader"
+version = "0.1.0"
+entrypoint = "sectionheader.typ"
