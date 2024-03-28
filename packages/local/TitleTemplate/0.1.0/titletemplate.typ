@@ -1,4 +1,4 @@
-#let project(title: "", authors: (), body) = {
+#let project(title: "", authors: ("Marley Reeves",), body) = {
   // Set the document's basic properties.
   set document(author: authors, title: title)
   set page(numbering: "1", number-align: center)
